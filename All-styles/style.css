@@ -1,0 +1,83 @@
+* {
+  margin: 0;
+  font-family: "Work Sans", sans-serif;
+}
+.banner {
+  background-image: url(/Essential-images/banner/banner3.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 1280px;
+  height: 689px;
+  left: 1339px;
+  top: 8px;
+}
+.firstdiv {
+  display: inline-block;
+  text-align: right;
+}
+.h1 {
+  font-weight: 900;
+  margin-bottom: 24px;
+  color: #fff;
+  font-size: 65px;
+  width: 525px;
+  height: 228px;
+  left: 845px;
+  top: 216px;
+}
+.p1 {
+  color: #fff;
+  margin-bottom: 30px;
+  width: 494px;
+  height: 78px;
+  left: 876px;
+  top: 468px;
+  line-height: 26px;
+}
+.btn {
+  color: #0059ff;
+  width: 160px;
+  height: 64px;
+  left: 1210px;
+  top: 578px;
+  border-style: none;
+}
+.part2 {
+  display: flex;
+}
+.part2_h1 {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+}
+.part2_p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+}
+.part2_li {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+}
+.part2_contant {
+  margin-top: 245px;
+  margin-left: 45px;
+}
+.part3_h1 {
+  text-align: center;
+  font-weight: 900;
+}
+.part3_h2 {
+  font-weight: 900;
+}
+.part3_icons {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+.img3 {
+  background-image: url(/Essential-images/gradient-color/gradient1.png);
+  opacity: 0.5;
+  background-repeat: no-repeat;
+}
